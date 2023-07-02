@@ -1,5 +1,5 @@
 import sys
-sys.path.append(r"C:\Users\admin\PycharmProjects\pythonProject3\nerf-paddle")
+sys.path.append(r"C:\Users\admin\PycharmProjects\pythonProject3\nerf")
 import os
 import numpy as np
 import imageio
